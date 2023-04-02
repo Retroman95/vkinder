@@ -1,0 +1,8 @@
+# Токен группы
+group_token = "vk1.a.0oLJWoi9KKUqXQ4IDUnjR-VseEWiONngsqx-vlzxBt4mb1opezivjKE6UGrmjL4O_SG5QGuH6K7ngti7gpPEkFvIO2YR8VMuQSTuQY8dg5iwuDbdtfQ_kva_OUuAVngRATe3WEUdPbPEHs3c3VJRFbj7B63HwTmuvEIEuNb6UVw3X-y5icWqlqxhGjWQewzQH3D6KHdoXFo3OGm7U3eX_w"
+
+# Токен пользователя (не группы)
+access_token = "vk1.a.P3cMY-fFGm1sn4EcAsEGNQFHm7Qy_gJ-RKKuxEMlpJpqCt9t5imYvlxYfo5uoQ7DN569S8HpvvqsHd_jDjaefAobsBE5O802Xrp27V1VemZLNhTS1Rtrr8Mj7bSWHcUcRDMdmt2RHrQ1vH27LNZAWCOXOu4HTclWB5GHw4cmeQ7iCZg2MHUuTK45MTTriY0fNZ0K0ee4BSMdcjpGNsZxmA&expires_in=86400&user_id=264216301"
+
+# количество пользователей для выдачи
+count = 1000
